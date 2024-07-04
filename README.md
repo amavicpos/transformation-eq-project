@@ -15,7 +15,7 @@ This project contains the data analysis pipeline for observatory data, focusing 
     2. **Run photometry.ipynb**
     3. **Run zeropoint.ipynb**
     4. **Run fitting.ipynb**
--   **For the _march data:**
+-   **For the _march data, for each sky:**
     1. **Run rename_march.ipynb**
     2. **Run photometry_march.ipynb**
     3. **Run zeropoint_march.ipynb**
