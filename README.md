@@ -10,13 +10,12 @@ This project contains the data analysis pipeline for observatory data, focusing 
 2. **Ensure you have Microsoft Visual C++ 14.0 or greater and pip install all the dependencies**
 
 ## Usage
-1. **Run the _march files separately to the other ones**
-2. **For the non _march files:**
+-   **For the non _march data (such as the example data folder), for each sky:**
     1. **Run adjust_files.ipynb**
     2. **Run photometry.ipynb**
     3. **Run zeropoint.ipynb**
-    4. **Run fitting.ipynb for each sky**
-3.  **For the _march files:**
+    4. **Run fitting.ipynb**
+-   **For the _march data:**
     1. **Run rename_march.ipynb**
     2. **Run photometry_march.ipynb**
     3. **Run zeropoint_march.ipynb**
