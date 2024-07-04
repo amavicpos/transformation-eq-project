@@ -1,5 +1,5 @@
 # Transformation Equation Project
-This project contains the data analysis pipeline for observatory data, focusing on transforming RGB filter system data to the BVR filter system. The pipeline includes steps such as renaming and filtering files, data extraction, zero-point adjustment and fitting transformation equation.
+This project contains the data analysis pipeline for observatory data, focusing on transforming RGB filter system data to the BVR filter system. The project includes files with steps such as filtering files, data extraction, zero-point adjustment and fitting transformation equation.
 
 ## Installation
 1. **Clone the repository:**
